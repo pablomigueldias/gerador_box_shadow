@@ -40,7 +40,3 @@ Para clonar e rodar este projeto localmente, siga os passos abaixo:
    git clone https://github.com/seu-usuario/gerador-box-shadow.git
 
    cd gerador-box-shadow
-
-
-
-
